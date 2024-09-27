@@ -1,2 +1,2 @@
 # Perfekt1040
-# első github bejegyzés, első commit
+# első github első commit
