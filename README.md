@@ -4,3 +4,4 @@
 # hozzádadás
 # változtatás
 # holnap hétfő, utálom a hétfőt - Garfield
+# oh my god
