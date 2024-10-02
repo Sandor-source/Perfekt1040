@@ -6,3 +6,4 @@
 # holnap hétfő, utálom a hétfőt - Garfield
 # oh my god
 # Garfield
+# Utálom a hétfőt
